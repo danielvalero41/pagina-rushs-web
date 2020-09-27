@@ -11,11 +11,13 @@ import { AsyncPipe } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 import { PrincipalComponent } from './principal/principal.component';
 import { ModalModule } from 'ngx-bootstrap/modal';
+import { PruebaPrincipalComponent } from './prueba-principal/prueba-principal.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    PrincipalComponent
+    PrincipalComponent,
+    PruebaPrincipalComponent
   ],
   imports: [
     BrowserModule,
