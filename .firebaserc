@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "web-rushs"
+  },
+  "targets": {
+    "web-rushs": {
+      "hosting": {
+        "pagina-web-rushs": [
+          "web-rushs"
+        ]
+      }
+    }
+  }
+}
